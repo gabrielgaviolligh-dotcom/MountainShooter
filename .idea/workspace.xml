@@ -5,21 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="646b9ec3-7b4d-405d-8d44-915ae042f1fe" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/background.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/entityfactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gabrielgaviolligh-dotcom&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gabrielgaviolligh-dotcom/MountainShooter.git&quot;,
+    &quot;accountId&quot;: &quot;cca1da7b-6abf-489d-81e0-d275d8b2ae7b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3MLDqxUWvvtevPsfQHLo588RiZW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,13 +59,20 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Menu.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Gabriel/Gabriel Faculdade/MATERIAS/Linguagem de Programação Aplicada/MontainShooter/code"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Gabriel\Gabriel Faculdade\MATERIAS\Linguagem de Programação Aplicada\MontainShooter\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1795459792378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1795460665788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1795460665788</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
