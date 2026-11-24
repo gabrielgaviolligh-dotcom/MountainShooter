@@ -1,10 +1,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from entity import Entity
+from Entity import Entity
 
 
-class Background(Entity):
+class Player(Entity):
 
 	def move(self) -> ->None:
 		pass

@@ -6,7 +6,7 @@ from __future__ import annotations
 from typing import TYPE_CHECKING
 
 if TYPE_CHECKING:
-	from entity import Entity
+	from Entity import Entity
 
 
 class EntityFactory:
